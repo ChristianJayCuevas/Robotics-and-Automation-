@@ -8,8 +8,8 @@
 #define BLYNK_TEMPLATE_NAME "HeartJack"
 #define BLYNK_AUTH_TOKEN    "TKY1Ra9AhvvsrEVsvWqmcYv0rUdYPoLh"
 #define BLYNK_PRINT Serial
-char ssid[] = "TEAM_CUEVAS-1";
-char pass[] = "25February1980CUEVAScezar";
+char ssid[] = "";
+char pass[] = "";
 SoftwareSerial EspSerial(2, 3);
 ESP8266 wifi(&EspSerial);
 LiquidCrystal_I2C lcd(0x27, 16, 2);
