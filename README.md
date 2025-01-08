@@ -1,0 +1,5 @@
+This project presents an innovative approach to cardiopulmonary resuscitation (CPR), addressing limitations of traditional manual methods. In conventional CPR, trained personnel deliver chest compressions using their hands to maintain consistent compression rate and depth on the patient’s sternum, ensuring blood flow until the heart resumes function or the patient reaches medical care. To prevent fatigue, multiple personnel may alternate during the process.
+
+The proposed solution utilizes automation and robotics to deliver consistent chest compressions, overcoming the challenges of human fatigue and variability. Consistency in compression rate and depth is critical for effective resuscitation, and automated CPR ensures high-quality, uninterrupted performance, minimizing the risk of error caused by exhaustion.
+
+The Automated CPR device features a pumping mechanism aligned with the patient’s chest, secured by straps to remain firmly in place. The system operates remotely, allowing for precise activation and deactivation without manual intervention, enhancing efficiency and reliability in emergency situations.
